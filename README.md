@@ -39,6 +39,24 @@
 
 ## How To Use
 
+#### Fast Installation
+
+If the next terms are met, the code will run without problems:
+- NET 5.0 installed (Required)
+- Windows OS
+
+> If you are using other OS you will probably have to download the latest Visual Studio 2019.
+
+> if you got the following error
+```html
+A path base can only be configured using IApplicationBuilder.UsePathBase().
+```
+Comment out the following code in the file Program.cs
+```html
+webBuilder.UseUrls("...");
+```
+
+
 #### NuGet Installation
 
 #### Microsoft.AspNetCore.Cors installation
