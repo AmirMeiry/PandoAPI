@@ -18,6 +18,15 @@
 
 .NET Core API that uses Swagger UI and SQLite DB to get data and transfer it using HTTP requests
 
+### Packages
+
+| Package | NuGet Link | Version |
+| ------- | ------- | ------- |
+| **Microsoft.AspNetCore.Cors** | [`@nuget/packages/Microsoft.AspNetCore.Cors`](https://www.nuget.org/packages/Microsoft.AspNetCore.Cors/) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.nuget.org/packages/Microsoft.AspNetCore.Cors/)
+| **Microsoft.EntityFrameworkCore.Sqlite** | [`@nuget/packages/Microsoft.EntityFrameworkCore.Sqlite`](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite/) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite/)
+| **Swashbuckle.AspNetCore** | [`@nuget/packages/Swashbuckle.AspNetCore`](https://www.nuget.org/packages/Swashbuckle.AspNetCore/) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.nuget.org/packages/Swashbuckle.AspNetCore/)
+
+
 #### Technologies
 
 - .NET Core API
