@@ -41,6 +41,11 @@
 
 #### Fast Installation
 
+git clone the repo using
+```html
+git clone https://github.com/AmirMeiry/PandoAPI.git
+```
+
 If the next terms are met, the code will run without problems:
 - NET 5.0 installed (Required)
 - Windows OS
